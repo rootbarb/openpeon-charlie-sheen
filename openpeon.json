@@ -1,0 +1,122 @@
+{
+  "cesp_version": "1.0",
+  "name": "charlie_sheen",
+  "display_name": "Charlie Sheen",
+  "version": "1.0.0",
+  "author": {
+    "name": "lukasbarbagallo",
+    "github": "lukasbarbagallo"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/Winning.wav",
+          "label": "Winning!"
+        },
+        {
+          "file": "sounds/TigerBlood.wav",
+          "label": "I got tiger blood, man"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/OneSpeedOneGear.wav",
+          "label": "I have one speed, I have one gear: go!"
+        },
+        {
+          "file": "sounds/DuhWinning.wav",
+          "label": "Duh, winning!"
+        },
+        {
+          "file": "sounds/BringIt.wav",
+          "label": "Bring it!"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/WinningHere.wav",
+          "label": "All I do is win"
+        },
+        {
+          "file": "sounds/Gnarly.wav",
+          "label": "Gnarly!"
+        },
+        {
+          "file": "sounds/Radical.wav",
+          "label": "Radical!"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/CantProcessIt.wav",
+          "label": "Your face can't process it"
+        },
+        {
+          "file": "sounds/Dying.wav",
+          "label": "I'm dying?! That's news to me!"
+        },
+        {
+          "file": "sounds/PlanetCharlie.wav",
+          "label": "I'm from a different planet"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/AreYouReady.wav",
+          "label": "Are you ready for my odometer?"
+        },
+        {
+          "file": "sounds/Warlock.wav",
+          "label": "I'm a warlock"
+        },
+        {
+          "file": "sounds/DrugCalledCharlieSheen.wav",
+          "label": "I'm on a drug, it's called Charlie Sheen"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/SleepIsForBabies.wav",
+          "label": "Sleep is for babies"
+        },
+        {
+          "file": "sounds/BurnedOut.wav",
+          "label": "I'm tired of pretending I'm not special"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/Troll.wav",
+          "label": "I'm gonna win every moment"
+        },
+        {
+          "file": "sounds/Torpedoes.wav",
+          "label": "Torpedoes of truth!"
+        },
+        {
+          "file": "sounds/YouBorrowMyBrain.wav",
+          "label": "If you borrow my brain, your head would explode"
+        },
+        {
+          "file": "sounds/BiWinning.wav",
+          "label": "Bi-winning!"
+        }
+      ]
+    }
+  }
+}
