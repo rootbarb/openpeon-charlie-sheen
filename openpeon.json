@@ -14,11 +14,13 @@
       "sounds": [
         {
           "file": "sounds/Winning.wav",
-          "label": "Winning!"
+          "label": "Winning!",
+          "sha256": "c07d606acbf61c2cd90b82befb38b6b989946cf7cce309ed4274463f97b7e38b"
         },
         {
           "file": "sounds/TigerBlood.wav",
-          "label": "I got tiger blood, man"
+          "label": "I got tiger blood, man",
+          "sha256": "98511a755d79236cf67ea2ec002669ff3a935f3ae5c2f3e18f372f9aafcf6b21"
         }
       ]
     },
@@ -26,15 +28,18 @@
       "sounds": [
         {
           "file": "sounds/OneSpeedOneGear.wav",
-          "label": "I have one speed, I have one gear: go!"
+          "label": "I have one speed, I have one gear: go!",
+          "sha256": "c2a3baedb3a3a98eedc27e691a85117bf29a0449d0bb5b96f5d1d851dae92ef4"
         },
         {
           "file": "sounds/DuhWinning.wav",
-          "label": "Duh, winning!"
+          "label": "Duh, winning!",
+          "sha256": "213a23cb91072df94613829762ea09bf908223a5bb1b140f6c53fe635f14089d"
         },
         {
           "file": "sounds/BringIt.wav",
-          "label": "Bring it!"
+          "label": "Bring it!",
+          "sha256": "b9ab38d0919fb4965a182724ac0eff4ba03b8080292bf662fa952a68e8ebe39c"
         }
       ]
     },
@@ -42,15 +47,18 @@
       "sounds": [
         {
           "file": "sounds/WinningHere.wav",
-          "label": "All I do is win"
+          "label": "All I do is win",
+          "sha256": "8cfcdc9fa00a9913d8178010ceef9cc024f588e0232253f1a9a492a00495d97f"
         },
         {
           "file": "sounds/Gnarly.wav",
-          "label": "Gnarly!"
+          "label": "Gnarly!",
+          "sha256": "96acc3b70012980c8fca51667359103789cb455c2f37e001c04aa5f827c646c6"
         },
         {
           "file": "sounds/Radical.wav",
-          "label": "Radical!"
+          "label": "Radical!",
+          "sha256": "4117141fb8628b9d6236efbe3d545970f2aa825060428b60d63b60378534458a"
         }
       ]
     },
@@ -58,15 +66,18 @@
       "sounds": [
         {
           "file": "sounds/CantProcessIt.wav",
-          "label": "Your face can't process it"
+          "label": "Your face can't process it",
+          "sha256": "7829ab11c15abe54ece5953c2e06ccad8894c9aa846304ab74719e0df873cb49"
         },
         {
           "file": "sounds/Dying.wav",
-          "label": "I'm dying?! That's news to me!"
+          "label": "I'm dying?! That's news to me!",
+          "sha256": "2e219906d4d54f04cc3a152a7352fb8aba6af7ee61fbf4623b9ea3ee5b85d64f"
         },
         {
           "file": "sounds/PlanetCharlie.wav",
-          "label": "I'm from a different planet"
+          "label": "I'm from a different planet",
+          "sha256": "3cee253c13cbeefd1029d3e354c0f5f64883d48095b34792c5abf3210678a086"
         }
       ]
     },
@@ -74,15 +85,18 @@
       "sounds": [
         {
           "file": "sounds/AreYouReady.wav",
-          "label": "Are you ready for my odometer?"
+          "label": "Are you ready for my odometer?",
+          "sha256": "a298e0627c54f34a65d872d32355a1d9fabd7db1c5e99bb3f25c8d1d8490d4da"
         },
         {
           "file": "sounds/Warlock.wav",
-          "label": "I'm a warlock"
+          "label": "I'm a warlock",
+          "sha256": "b7bd87e57f7a9abeb58fb6ca6772d4637181d6856fd5ffdf25acc3f48b328493"
         },
         {
           "file": "sounds/DrugCalledCharlieSheen.wav",
-          "label": "I'm on a drug, it's called Charlie Sheen"
+          "label": "I'm on a drug, it's called Charlie Sheen",
+          "sha256": "3a5bec0b4d11b1886ffa84d84a728fc0abbbd0467ba5f348d34d627aa51414f6"
         }
       ]
     },
@@ -90,11 +104,13 @@
       "sounds": [
         {
           "file": "sounds/SleepIsForBabies.wav",
-          "label": "Sleep is for babies"
+          "label": "Sleep is for babies",
+          "sha256": "3eb5248e2378905782b6a9e69f1c66f0d416ec98058dd64a43166f2ab82f6c0e"
         },
         {
           "file": "sounds/BurnedOut.wav",
-          "label": "I'm tired of pretending I'm not special"
+          "label": "I'm tired of pretending I'm not special",
+          "sha256": "ec8747abe99579f694156893f3218aaf78b195501106469e11772898bd7c6b74"
         }
       ]
     },
@@ -102,19 +118,23 @@
       "sounds": [
         {
           "file": "sounds/Troll.wav",
-          "label": "I'm gonna win every moment"
+          "label": "I'm gonna win every moment",
+          "sha256": "e83e2cd3094861bba1a3a3a46be17e6ff7cc5074894a7d89a51a71fff163db69"
         },
         {
           "file": "sounds/Torpedoes.wav",
-          "label": "Torpedoes of truth!"
+          "label": "Torpedoes of truth!",
+          "sha256": "29694dfca8a4555abc9e652a1a2e47e60c6ad45f93188bc98c57c413bc7e23ce"
         },
         {
           "file": "sounds/YouBorrowMyBrain.wav",
-          "label": "If you borrow my brain, your head would explode"
+          "label": "If you borrow my brain, your head would explode",
+          "sha256": "a0967c38d58f37eb35a9ff79ea1310e0d2f4bc96ed7b9f35df2407827d8d62b6"
         },
         {
           "file": "sounds/BiWinning.wav",
-          "label": "Bi-winning!"
+          "label": "Bi-winning!",
+          "sha256": "c481522fcb5078214ad275d7dd998bfd84389c284d3ec1b076a6147f6ba530f6"
         }
       ]
     }
