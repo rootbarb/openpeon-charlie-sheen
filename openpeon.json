@@ -15,12 +15,12 @@
         {
           "file": "sounds/Winning.wav",
           "label": "Winning!",
-          "sha256": "c07d606acbf61c2cd90b82befb38b6b989946cf7cce309ed4274463f97b7e38b"
+          "sha256": "4890bb9fd2147de7e6d59a7d6e0c3cd7ff27f4812846ccf06affb3d1f9d0319d"
         },
         {
           "file": "sounds/TigerBlood.wav",
           "label": "I got tiger blood, man",
-          "sha256": "98511a755d79236cf67ea2ec002669ff3a935f3ae5c2f3e18f372f9aafcf6b21"
+          "sha256": "4567135c04475b2ee15878f29420d755521c2eed3effaf415cae06f5eff1bdc1"
         }
       ]
     },
@@ -29,36 +29,36 @@
         {
           "file": "sounds/OneSpeedOneGear.wav",
           "label": "I have one speed, I have one gear: go!",
-          "sha256": "c2a3baedb3a3a98eedc27e691a85117bf29a0449d0bb5b96f5d1d851dae92ef4"
+          "sha256": "066f4e239e7c019bf09297e6a9ed03c4a392c7a2eb46595a30885baaf0887dd3"
         },
         {
           "file": "sounds/DuhWinning.wav",
           "label": "Duh, winning!",
-          "sha256": "213a23cb91072df94613829762ea09bf908223a5bb1b140f6c53fe635f14089d"
+          "sha256": "da1639287071978f357f4b07bfaa89fd77bad971733bbd570a4f0f5fe24102c3"
         },
         {
           "file": "sounds/BringIt.wav",
           "label": "Bring it!",
-          "sha256": "b9ab38d0919fb4965a182724ac0eff4ba03b8080292bf662fa952a68e8ebe39c"
+          "sha256": "a402e5aa09abcb56dafaa5872ee742e16885e605f661f69af7eee7f289f68a91"
         }
       ]
     },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/WinningHere.wav",
-          "label": "All I do is win",
-          "sha256": "8cfcdc9fa00a9913d8178010ceef9cc024f588e0232253f1a9a492a00495d97f"
+          "file": "sounds/ExposedToMagic.wav",
+          "label": "I exposed people to magic",
+          "sha256": "34d9564a30a6a8d455166ca164799eaf505d66d13190ec7e6fe1774c6de11be0"
         },
         {
-          "file": "sounds/Gnarly.wav",
-          "label": "Gnarly!",
-          "sha256": "96acc3b70012980c8fca51667359103789cb455c2f37e001c04aa5f827c646c6"
+          "file": "sounds/RockstarFromMars.wav",
+          "label": "A total freaking rockstar from Mars",
+          "sha256": "6c22a7ba867ebc33ad770991437fe39d83b586c5b6241e3e3635af90a9eb9703"
         },
         {
-          "file": "sounds/Radical.wav",
-          "label": "Radical!",
-          "sha256": "4117141fb8628b9d6236efbe3d545970f2aa825060428b60d63b60378534458a"
+          "file": "sounds/Epic.wav",
+          "label": "Epic!",
+          "sha256": "3219644097a635f1420087a1cd6168dcd79bdd082a07d3016f7cab8b4c4362d6"
         }
       ]
     },
@@ -66,75 +66,75 @@
       "sounds": [
         {
           "file": "sounds/CantProcessIt.wav",
-          "label": "Your face can't process it",
-          "sha256": "7829ab11c15abe54ece5953c2e06ccad8894c9aa846304ab74719e0df873cb49"
+          "label": "Can't process me with a normal brain",
+          "sha256": "46053f278e8fe10428e84314c4c9c30cbe11ffd204cbd2b7921f7a171be95d6d"
         },
         {
           "file": "sounds/Dying.wav",
-          "label": "I'm dying?! That's news to me!",
-          "sha256": "2e219906d4d54f04cc3a152a7352fb8aba6af7ee61fbf4623b9ea3ee5b85d64f"
+          "label": "Dying is for fools",
+          "sha256": "ac43c67905da6c8507301d204f1fbd186097786d292db72c339314ff52554af8"
         },
         {
-          "file": "sounds/PlanetCharlie.wav",
-          "label": "I'm from a different planet",
-          "sha256": "3cee253c13cbeefd1029d3e354c0f5f64883d48095b34792c5abf3210678a086"
+          "file": "sounds/TerrestrialRealm.wav",
+          "label": "Not from this terrestrial realm",
+          "sha256": "83411981b7fd07dfce4c79c81696274a09dcafecad35bbce84a9929b0a81600d"
         }
       ]
     },
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/AreYouReady.wav",
-          "label": "Are you ready for my odometer?",
-          "sha256": "a298e0627c54f34a65d872d32355a1d9fabd7db1c5e99bb3f25c8d1d8490d4da"
-        },
-        {
           "file": "sounds/Warlock.wav",
-          "label": "I'm a warlock",
-          "sha256": "b7bd87e57f7a9abeb58fb6ca6772d4637181d6856fd5ffdf25acc3f48b328493"
+          "label": "They picked a fight with a warlock",
+          "sha256": "6970f4396cfacd71195293ac5215b42246c214dc996d242dd946654c2029cd43"
         },
         {
           "file": "sounds/DrugCalledCharlieSheen.wav",
           "label": "I'm on a drug, it's called Charlie Sheen",
-          "sha256": "3a5bec0b4d11b1886ffa84d84a728fc0abbbd0467ba5f348d34d627aa51414f6"
+          "sha256": "f8708eca86dffca1a0ffa72d070e2a6df2cc477a8876e1194d2b476e4f3ccaa4"
+        },
+        {
+          "file": "sounds/YouGotACup.wav",
+          "label": "Sure, you got a cup?",
+          "sha256": "7d819ce116e68e3a358b0a4d4c25b7d98fe04353480862532001cf23e8bde9bc"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/SleepIsForBabies.wav",
-          "label": "Sleep is for babies",
-          "sha256": "3eb5248e2378905782b6a9e69f1c66f0d416ec98058dd64a43166f2ab82f6c0e"
+          "file": "sounds/PretendingNotSpecial.wav",
+          "label": "I'm tired of pretending I'm not special",
+          "sha256": "8b771596771a896dceac60d1297125094203bb7b562b01048c7235d1329d61ff"
         },
         {
-          "file": "sounds/BurnedOut.wav",
-          "label": "I'm tired of pretending I'm not special",
-          "sha256": "ec8747abe99579f694156893f3218aaf78b195501106469e11772898bd7c6b74"
+          "file": "sounds/FaceMeltOff.wav",
+          "label": "Your face will melt off",
+          "sha256": "65c68d2d5fff54f5e02692557f1df73e33ae39109dbe72963967b98088ae86e3"
         }
       ]
     },
     "user.spam": {
       "sounds": [
         {
-          "file": "sounds/Troll.wav",
-          "label": "I'm gonna win every moment",
-          "sha256": "e83e2cd3094861bba1a3a3a46be17e6ff7cc5074894a7d89a51a71fff163db69"
+          "file": "sounds/DroopyEyed.wav",
+          "label": "Droopy-eyed armless children",
+          "sha256": "96f5763bdae845a3f4d3435467fcac45dca5288a78bc4ccb6ebd39dbcbedf519"
         },
         {
-          "file": "sounds/Torpedoes.wav",
-          "label": "Torpedoes of truth!",
-          "sha256": "29694dfca8a4555abc9e652a1a2e47e60c6ad45f93188bc98c57c413bc7e23ce"
-        },
-        {
-          "file": "sounds/YouBorrowMyBrain.wav",
-          "label": "If you borrow my brain, your head would explode",
-          "sha256": "a0967c38d58f37eb35a9ff79ea1310e0d2f4bc96ed7b9f35df2407827d8d62b6"
+          "file": "sounds/BorrowMyBrain.wav",
+          "label": "You borrow my brain for 5 seconds...",
+          "sha256": "a41e85cf20d83cda546a028da2fd0cb5cf2e3a6de818fd21ed08c3cc903d18a3"
         },
         {
           "file": "sounds/BiWinning.wav",
           "label": "Bi-winning!",
-          "sha256": "c481522fcb5078214ad275d7dd998bfd84389c284d3ec1b076a6147f6ba530f6"
+          "sha256": "2f089220e35e0878f7171a40321d4e43b7442217ff918f269d2db76125c4aa0f"
+        },
+        {
+          "file": "sounds/ImDifferent.wav",
+          "label": "I'm different. I have a different constitution, different brain, different heart.",
+          "sha256": "32ef5c0642179f677bf73cf16acd927336fb5aa0d2501ba25fc3e86f1b82f6c1"
         }
       ]
     }

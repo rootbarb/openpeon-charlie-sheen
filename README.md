@@ -13,12 +13,12 @@ A [peon-ping](https://github.com/PeonPing/peon-ping) sound pack featuring **Char
 | Category | Clips |
 |---|---|
 | `session.start` | "Winning!", "I got tiger blood, man" |
-| `task.acknowledge` | "I have one speed, I have one gear: go!", "Duh, winning!", "Bring it!" |
-| `task.complete` | "All I do is win", "Gnarly!", "Radical!" |
-| `task.error` | "Your face can't process it", "I'm dying?! That's news to me!", "I'm from a different planet" |
-| `input.required` | "Are you ready for my odometer?", "I'm a warlock", "I'm on a drug, it's called Charlie Sheen" |
-| `resource.limit` | "Sleep is for babies", "I'm tired of pretending I'm not special" |
-| `user.spam` | "I'm gonna win every moment", "Torpedoes of truth!", "If you borrow my brain, your head would explode", "Bi-winning!" |
+| `task.acknowledge` | "One speed, one gear: go!", "Duh, winning!", "Bring it!" |
+| `task.complete` | "I exposed people to magic", "Rockstar from Mars", "Epic!" |
+| `task.error` | "Can't process me with a normal brain", "Dying is for fools", "Not from this terrestrial realm" |
+| `input.required` | "Picked a fight with a warlock", "Drug called Charlie Sheen", "Sure, you got a cup?" |
+| `resource.limit` | "Tired of pretending I'm not special", "Your face will melt off" |
+| `user.spam` | "Droopy-eyed armless children", "Borrow my brain for 5 seconds", "Bi-winning!", "I'm different" |
 
 ## Install
 
