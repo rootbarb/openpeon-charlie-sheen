@@ -25,12 +25,23 @@
         {
           "file": "sounds/BringIt.wav",
           "label": "Bring it!",
-          "sha256": "b15c718be0f0e0b2092807fe065be7cd86b715404d186d8cdeb752dab3288b83"
+          "sha256": "1ab681e59ff4daf718dd8452fab203460ab900791da40632ffe603285c044c6d"
         }
       ]
     },
     "task.acknowledge": {
-      "sounds": []
+      "sounds": [
+        {
+          "file": "sounds/Warlock.wav",
+          "label": "They picked a fight with a warlock",
+          "sha256": "29dbcd798e9b022711e3eff8992e4ee3f932fd20f7d7a0139a7114080df5fe84"
+        },
+        {
+          "file": "sounds/DrugCalledCharlieSheen.wav",
+          "label": "I'm on a drug, it's called Charlie Sheen",
+          "sha256": "c1cd2cf220bd1c1efe5d741c92b40b779318e2a62c1cf8fcf7da771ee1e0d65a"
+        }
+      ]
     },
     "task.complete": {
       "sounds": [
@@ -82,16 +93,6 @@
     },
     "input.required": {
       "sounds": [
-        {
-          "file": "sounds/Warlock.wav",
-          "label": "They picked a fight with a warlock",
-          "sha256": "29dbcd798e9b022711e3eff8992e4ee3f932fd20f7d7a0139a7114080df5fe84"
-        },
-        {
-          "file": "sounds/DrugCalledCharlieSheen.wav",
-          "label": "I'm on a drug, it's called Charlie Sheen",
-          "sha256": "b894b6bfc4e312a6d1280375593163279ff8096b322dc8f1f99e085c5a57fa39"
-        },
         {
           "file": "sounds/YouGotACup.wav",
           "label": "Sure, you got a cup?",
