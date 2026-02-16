@@ -40,6 +40,11 @@
           "file": "sounds/DrugCalledCharlieSheen.wav",
           "label": "I'm on a drug, it's called Charlie Sheen",
           "sha256": "c1cd2cf220bd1c1efe5d741c92b40b779318e2a62c1cf8fcf7da771ee1e0d65a"
+        },
+        {
+          "file": "sounds/ExposedToMagic.wav",
+          "label": "I exposed people to magic",
+          "sha256": "1fd55ec37393eacc5f4e1b6aa6e2b168958edf6adf9b4bc34c75915cd995557b"
         }
       ]
     },
@@ -59,16 +64,6 @@
           "file": "sounds/BiWinning.wav",
           "label": "Bi-winning!",
           "sha256": "ef05edbad49fe47e63f8ce5c265fefd02fdca539d6db85eb209ee76870ed4257"
-        },
-        {
-          "file": "sounds/ExposedToMagic.wav",
-          "label": "I exposed people to magic",
-          "sha256": "1fd55ec37393eacc5f4e1b6aa6e2b168958edf6adf9b4bc34c75915cd995557b"
-        },
-        {
-          "file": "sounds/Epic.wav",
-          "label": "Epic!",
-          "sha256": "228f8c3fb7f2562977e49c80531b3ce6ee61a0fdb72f759e1cca1a6beb5cb73d"
         }
       ]
     },
@@ -77,17 +72,22 @@
         {
           "file": "sounds/CantProcessIt.wav",
           "label": "Can't process me with a normal brain",
-          "sha256": "24e90ad4228240c395df13fce981cfbead177ea6ac1abeb30fff905c71267e66"
+          "sha256": "15ea384e900d87ad7d6cd242ad4daf13d8954a99954e2d1ed3b2cb95c4d919ba"
         },
         {
           "file": "sounds/Dying.wav",
           "label": "Dying is for fools",
-          "sha256": "40574ee2ff3ada46c8f73ba4ed9a2abd5304f08f0c58e16ba8a92d13b9af3002"
+          "sha256": "40d1e8aaa55a9f0a44440df53352bfa80452869965f4026e25a451b1958f4dc2"
         },
         {
           "file": "sounds/TerrestrialRealm.wav",
           "label": "Not from this terrestrial realm",
           "sha256": "83411981b7fd07dfce4c79c81696274a09dcafecad35bbce84a9929b0a81600d"
+        },
+        {
+          "file": "sounds/Epic.wav",
+          "label": "Epic!",
+          "sha256": "f3b71de6255663fa9de24464bec87289483e665bd84e7e452436a9d09e162724"
         }
       ]
     },
@@ -96,7 +96,7 @@
         {
           "file": "sounds/YouGotACup.wav",
           "label": "Sure, you got a cup?",
-          "sha256": "05f500d38b297b1aa1eb5bb7868dae691fb63b8c4a8359334c5bd36f9fa686e8"
+          "sha256": "a0c03a83f170ebfa7573926f4cf424b0a7ae283847dee272d99265dff76f52be"
         }
       ]
     },
@@ -119,7 +119,7 @@
         {
           "file": "sounds/DroopyEyed.wav",
           "label": "Droopy-eyed armless children",
-          "sha256": "7004cdff3312222fd85d77fd9f5e88e2da65688d6af74ed3f1e1e39f66a30469"
+          "sha256": "3ce5f076e7570803b3c0889663e15ebb1ce79b0d0f4dc70b675491382040d505"
         },
         {
           "file": "sounds/BorrowMyBrain.wav",
@@ -129,7 +129,7 @@
         {
           "file": "sounds/ImDifferent.wav",
           "label": "I'm different. I have a different constitution, different brain, different heart.",
-          "sha256": "7e6cef2b9c1d083a7fb143bc060142107f3897526c6a90e6de5c6cbe22df6624"
+          "sha256": "e278d80b6e0530d11d3a6a04b9b7b8513b70eb72e69e048570f344e606d49db4"
         }
       ]
     }
