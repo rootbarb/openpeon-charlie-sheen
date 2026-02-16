@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": {
     "name": "lukasbarbagallo",
-    "github": "lukasbarbagallo"
+    "github": "rootbarb"
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
@@ -13,23 +13,31 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/Winning.wav",
-          "label": "Winning!",
-          "sha256": "6b48292318ed065654f39af5cee64e6daeb219dcc9b26a16b0f126a65dc04501"
-        },
-        {
           "file": "sounds/TigerBlood.wav",
           "label": "I got tiger blood, man",
           "sha256": "79c9232c4c3c0d2f914ed8d8416b18013bf370accf5b65b56adfda69f64f71fd"
-        }
-      ]
-    },
-    "task.acknowledge": {
-      "sounds": [
+        },
         {
           "file": "sounds/OneSpeedOneGear.wav",
           "label": "I have one speed, I have one gear: go!",
           "sha256": "dde4bdbb56c55c52fbb166d5941a42c0f966269b6af3155c882bab0b5d7f047c"
+        },
+        {
+          "file": "sounds/BringIt.wav",
+          "label": "Bring it!",
+          "sha256": "b15c718be0f0e0b2092807fe065be7cd86b715404d186d8cdeb752dab3288b83"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": []
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/Winning.wav",
+          "label": "Winning!",
+          "sha256": "6b48292318ed065654f39af5cee64e6daeb219dcc9b26a16b0f126a65dc04501"
         },
         {
           "file": "sounds/DuhWinning.wav",
@@ -37,28 +45,19 @@
           "sha256": "f764e1ff5ca3ea34e809a48ec05e5a63399d915b29c40d492322b384b41a14e3"
         },
         {
-          "file": "sounds/BringIt.wav",
-          "label": "Bring it!",
-          "sha256": "667b9c3b618abf6558121cf2fe420f9c364f4a18e23c64c6557a836792cce0ab"
-        }
-      ]
-    },
-    "task.complete": {
-      "sounds": [
+          "file": "sounds/BiWinning.wav",
+          "label": "Bi-winning!",
+          "sha256": "ef05edbad49fe47e63f8ce5c265fefd02fdca539d6db85eb209ee76870ed4257"
+        },
         {
           "file": "sounds/ExposedToMagic.wav",
           "label": "I exposed people to magic",
-          "sha256": "b18a7df5bc5c76a1caaf33664609ca17be55ecc0498a3fdee2994a235dc97c83"
-        },
-        {
-          "file": "sounds/RockstarFromMars.wav",
-          "label": "A total freaking rockstar from Mars",
-          "sha256": "03d772f88b23c606342727409fa36387933ad3eec99a7b47213664c66882b1ee"
+          "sha256": "1fd55ec37393eacc5f4e1b6aa6e2b168958edf6adf9b4bc34c75915cd995557b"
         },
         {
           "file": "sounds/Epic.wav",
           "label": "Epic!",
-          "sha256": "f37b2b69269496abe5eac4920763d1cff45034b7550e00ccce3ec9e7ca0fad09"
+          "sha256": "228f8c3fb7f2562977e49c80531b3ce6ee61a0fdb72f759e1cca1a6beb5cb73d"
         }
       ]
     },
@@ -125,11 +124,6 @@
           "file": "sounds/BorrowMyBrain.wav",
           "label": "You borrow my brain for 5 seconds...",
           "sha256": "e5d052940f105d8bd1626341bc3aff41fd2fa3d8af406c00ec5c82bbfcfd4797"
-        },
-        {
-          "file": "sounds/BiWinning.wav",
-          "label": "Bi-winning!",
-          "sha256": "ef05edbad49fe47e63f8ce5c265fefd02fdca539d6db85eb209ee76870ed4257"
         },
         {
           "file": "sounds/ImDifferent.wav",
