@@ -82,7 +82,7 @@
         {
           "file": "sounds/TerrestrialRealm.wav",
           "label": "Not from this terrestrial realm",
-          "sha256": "83411981b7fd07dfce4c79c81696274a09dcafecad35bbce84a9929b0a81600d"
+          "sha256": "825bbbff72e8ee3ddb3476408c55ae6c25af924e627b6fe15cea77c5b742952f"
         },
         {
           "file": "sounds/Epic.wav",
@@ -96,7 +96,7 @@
         {
           "file": "sounds/YouGotACup.wav",
           "label": "Sure, you got a cup?",
-          "sha256": "a0c03a83f170ebfa7573926f4cf424b0a7ae283847dee272d99265dff76f52be"
+          "sha256": "eddf016e1f84ae9375e6e3d217981912e3697e0152e842b97f84c1a4ff364a0e"
         }
       ]
     },
